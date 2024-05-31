@@ -1,3 +1,14 @@
+
+# Home screen
+
+<img width="1440" alt="Screenshot 2024-06-01 at 12 18 24 AM" src="https://github.com/sonugtm-india/Kanban-board-application-using-React-JS-/assets/96379972/2b056c02-1a5d-42d1-8fd4-ba8c829f2d4f">
+
+# Ticket filter
+<img width="1440" alt="Screenshot 2024-06-01 at 12 18 15 AM" src="https://github.com/sonugtm-india/Kanban-board-application-using-React-JS-/assets/96379972/7d86f1dc-78a5-4fee-a580-06ddf7823370">
+
+<img width="1440" alt="Screenshot 2024-06-01 at 12 17 51 AM" src="https://github.com/sonugtm-india/Kanban-board-application-using-React-JS-/assets/96379972/c2355a98-691f-4fca-bd00-3720a129160f">
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
